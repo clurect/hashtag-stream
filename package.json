@@ -1,0 +1,10 @@
+{
+  "name": "streaming-hashtag",
+  "version": "0.0.1",
+  "description": "socket.io twitter stream",
+  "dependencies": {
+    "express": "^4.10.2",
+    "node-tweet-stream": "^2.0.1",
+    "socket.io": "^1.4.8"
+  }
+}
